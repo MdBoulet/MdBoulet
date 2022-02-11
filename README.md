@@ -5,11 +5,6 @@
   - 🔭 Je travaille en tant qu'independant
   - 🌱 J'apprends actuellement flutter
   - 👯 Je recherche des collarations pour des projets en flutter or react
-  
-  <h3>Contactez moi</h3>
-  
-  <a href="#">![téléchargement](https://user-images.githubusercontent.com/83733778/153615095-d3f25c22-fc7f-4432-b834-26444c801dc6.png)
-</a>
 <!--
 **MdBoulet/MdBoulet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
