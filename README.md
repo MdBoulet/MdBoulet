@@ -1,4 +1,4 @@
-### Salut , je suis <a href="#">Md Boulet<a>👋
+### <h1 style="text-align: center">Salut , je suis <a href="#">Md Boulet<a>👋</h1>
 
 <!--
 **MdBoulet/MdBoulet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
