@@ -4,7 +4,7 @@
   
   - 🔭 Je travaille en tant qu'independant
   - 🌱 J'apprends actuellement flutter
-  - 👯 Je recherche des collarations pour des projets en flutter or react
+  - 👯 Je recherche des collaborations pour des projets en flutter or react
 <!--
 **MdBoulet/MdBoulet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
